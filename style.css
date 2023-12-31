@@ -3,6 +3,9 @@ body {
     text-align: center;
     display: grid;
     place-content: center;
+    background: url(./image/neda-astani-KWTkd7mHqKE-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 .weather-container {
