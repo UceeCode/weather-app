@@ -59,6 +59,18 @@ button {
     left: 6px;
     color: #007BFF;
 }
+.name{
+    margin-bottom: 8px;
+}
+.h-rain{
+    margin-bottom: 8px;
+}
+.temp{
+    margin-bottom: 8px;
+}
+.hum{
+    margin-bottom: 8px;
+}
 .last{
     font-family: cursive;
     font-size: 13px;
