@@ -60,16 +60,16 @@ button {
     color: #007BFF;
 }
 .name{
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }
 .h-rain{
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }
 .temp{
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }
 .hum{
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }
 .last{
     font-family: cursive;
